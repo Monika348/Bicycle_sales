@@ -21,6 +21,7 @@ This project explores and analyses a fictional bicycle store using SQL. It invol
 	Analysing across 3 years data from 2016 to 2018, the year 2017 has the highest sales.
 	Trek, Electra and Surly are top 3 brands generating high revenue.
 
-## 🛠️ Tools Used: SQL (MySQL)
+Tool Used: Mysql
+
 
 
